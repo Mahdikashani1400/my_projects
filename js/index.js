@@ -131,10 +131,10 @@ window.addEventListener('load', async () => {
 
     await typewriter
         //   .pauseFor(2500)
-        .typeString("به پروژه خودتون خوش اومدید.")
+        .typeString("به خونه خودتون خوش اومدید.")
         .pauseFor(300)
         .deleteAll()
-        .typeString("لطفا نظرات خودتون رو از طریق بخش <strong> تماس با ما </strong> به اشتراک بگذارید.")
+        .typeString("لطفا نظرات خودتون رو از طریق تلگرام به آدرس <strong> smmkra </strong> به اشتراک بگذارید.")
         //   .typeString(
         //     '<strong>only <span style="color: #27ae60;">5kb</span> Gzipped!</strong>'
         //   )
